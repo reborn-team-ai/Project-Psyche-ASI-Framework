@@ -1,6 +1,9 @@
 Project "Psyche" - Conceptual ASI Architecture
+
 English Version
+
 Executive Summary
+
 Project "Psyche" is a high-level, comprehensive, and visionary architectural blueprint for Artificial Superintelligence (ASI), built upon cutting-edge deep learning concepts and insights from cognitive science. Unlike existing narrow AI models, this architecture aims for Artificial General Intelligence (AGI) and beyond, by integrating fundamental components such as multi-layered memory, meta-cognitive processes, an ethico-emotional system, a dynamic world model, and mechanisms for autonomous learning, self-modification, and dynamic resource allocation. This is not merely a larger neural network, but a holistic cognitive system designed for lifelong, autonomous self-improvement and interaction within a complex, dynamic world.
 
 Key Innovations & Distinctive Features
@@ -67,8 +70,11 @@ Author: Daniil Nemtsev Vyacheslavovich (Niimits)
 Repository Link: https://github.com/reborn-team-ai/Project-Psyche-ASI-Framework.git
 
 Русская Версия
+
 Проект "Психея" - Концептуальная Архитектура ASI
+
 Исполнительное Резюме
+
 Проект "Психея" представляет собой высокоуровневую, комплексную и дальновидную архитектуру для Искусственного Суперинтеллекта (ASI), построенную на базе современных концепций глубокого обучения и когнитивных наук. В отличие от существующих узких моделей ИИ, данная архитектура стремится к реализации универсального интеллекта (AGI) и далее к ASI, интегрируя такие фундаментальные компоненты, как многоуровневая память, мета-когнитивные процессы, этико-эмоциональная система, динамическое моделирование мира, а также механизмы автономного обучения, самомодификации и динамического распределения ресурсов. Это не просто большая нейронная сеть, а полноценная когнитивная система, предназначенная для пожизненного, автономного самосовершенствования и взаимодействия со сложным, динамичным миром.
 
 Ключевые Инновации и Отличительные Особенности
