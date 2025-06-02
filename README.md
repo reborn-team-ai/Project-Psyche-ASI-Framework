@@ -4,6 +4,7 @@ Executive Summary
 Project "Psyche" is a high-level, comprehensive, and visionary architectural blueprint for Artificial Superintelligence (ASI), built upon cutting-edge deep learning concepts and insights from cognitive science. Unlike existing narrow AI models, this architecture aims for Artificial General Intelligence (AGI) and beyond, by integrating fundamental components such as multi-layered memory, meta-cognitive processes, an ethico-emotional system, a dynamic world model, and mechanisms for autonomous learning, self-modification, and dynamic resource allocation. This is not merely a larger neural network, but a holistic cognitive system designed for lifelong, autonomous self-improvement and interaction within a complex, dynamic world.
 
 Key Innovations & Distinctive Features
+
 This architecture stands out due to the following integrated concepts:
 
 - Multimodal Fusion: Deep integration of visual and linguistic information at early processing stages to form a unified, coherent internal representation.
@@ -35,6 +36,7 @@ Technical Implementation & Scale
 - Resource Requirements: Requires colossal computational power (GPU clusters like NVIDIA H100/Blackwell) and decades of continuous training for hypothetical functional realization.
 
 Vision & Potential Impact
+
 "Project Psyche" serves as a roadmap for creating AGI systems capable of:
 
 - Generalizing knowledge and skills across unrelated domains.
@@ -48,6 +50,7 @@ Vision & Potential Impact
 - This project marks a significant step towards exploring the fundamental principles necessary for building truly autonomous, learning, and reflective AIs.
 
 Current Status & Limitations
+
 This code is a conceptual architecture and a research prototype. It demonstrates theoretical foundations and suggests avenues for future research. In its current form, it is not a functional AGI/ASI and requires:
 
 - Immense computational resources for training.
@@ -57,6 +60,7 @@ This code is a conceptual architecture and a research prototype. It demonstrates
 - Massive engineering efforts for full realization and deployment.
 
 Attribution / Acknowledgement
+
 If you use this architecture or any substantial part of it in your research, development, or publications, please cite this repository and its author:
 
 Author: Daniil Nemtsev Vyacheslavovich (Niimits)
@@ -68,6 +72,7 @@ Repository Link: https://github.com/reborn-team-ai/Project-Psyche-ASI-Framework.
 Проект "Психея" представляет собой высокоуровневую, комплексную и дальновидную архитектуру для Искусственного Суперинтеллекта (ASI), построенную на базе современных концепций глубокого обучения и когнитивных наук. В отличие от существующих узких моделей ИИ, данная архитектура стремится к реализации универсального интеллекта (AGI) и далее к ASI, интегрируя такие фундаментальные компоненты, как многоуровневая память, мета-когнитивные процессы, этико-эмоциональная система, динамическое моделирование мира, а также механизмы автономного обучения, самомодификации и динамического распределения ресурсов. Это не просто большая нейронная сеть, а полноценная когнитивная система, предназначенная для пожизненного, автономного самосовершенствования и взаимодействия со сложным, динамичным миром.
 
 Ключевые Инновации и Отличительные Особенности
+
 Данная архитектура выделяется за счет следующих интегрированных концепций:
 
 - Мультимодальное слияние: Глубокая интеграция визуальной и языковой информации на ранних этапах обработки для формирования единого, связного внутреннего представления.
@@ -99,6 +104,7 @@ Repository Link: https://github.com/reborn-team-ai/Project-Psyche-ASI-Framework.
 - Потребности в ресурсах: Требует колоссальных вычислительных мощностей (кластеры GPU уровня NVIDIA H100/Blackwell) и десятки лет непрерывного обучения для гипотетического достижения функционального состояния.
 
 Видение и Потенциальное Воздействие
+
 "Проект Психея" служит дорожной картой для создания систем AGI, способных:
 
 - Обобщать знания и навыки в несвязанных областях.
@@ -112,6 +118,7 @@ Repository Link: https://github.com/reborn-team-ai/Project-Psyche-ASI-Framework.
 - Этот проект знаменует собой значительный шаг в сторону исследования фундаментальных принципов, необходимых для создания по-настоящему автономных, обучающихся и рефлексирующих ИИ.
 
 Текущий статус и ограничения
+
 Данный код является концептуальной архитектурой и исследовательским прототипом. Он демонстрирует теоретические основы и предлагает пути для будущих исследований. В текущем виде он не является функциональным AGI/ASI и требует:
 
 - Огромных вычислительных ресурсов для обучения.
@@ -121,6 +128,7 @@ Repository Link: https://github.com/reborn-team-ai/Project-Psyche-ASI-Framework.
 - Масштабных инженерных усилий для полной реализации и развертывания.
 
 Attribution / Упоминание Автора
+
 If you use this architecture or any substantial part of it in your research, development, or publications, please cite this repository and its author:
 
 Если вы используете данную архитектуру или её существенные части в своих исследованиях, разработках или публикациях, пожалуйста, ссылайтесь на этот репозиторий и его автора:
